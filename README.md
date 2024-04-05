@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditi Badkur
 - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 - 🌱 I’m currently learning and expanding my skills in various programming languages and technologies.
-- 🤝  Open for collaborations, and internships.
+- 🤝  Open for collaborations and internships.
 - 📫 How to reach me: aditisbadkur@gmail.com
 
 <!---
