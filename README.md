@@ -25,6 +25,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-badkur-337770260) 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
