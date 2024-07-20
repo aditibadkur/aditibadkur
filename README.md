@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋! My name is Aditi Badkur </h1>
 <h3>An aspiring full stack developer</h3>
-🎓 Second Year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning and expanding my skills in various programming languages and technologies.<br>🤝 Open for collaborations and internships.<br>📫 How to reach me: aditisbadkur@gmail.com
+🎓 Third Year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning and expanding my skills in various programming languages and technologies.<br>🤝 Open for collaborations and internships.<br>📫 How to reach me: aditisbadkur@gmail.com
 
 
 # 💻 Tech Stack:
