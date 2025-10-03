@@ -6,14 +6,13 @@
 🎓 Final Year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering.<br>🌱 I’m currently learning and expanding my skills in various programming languages and technologies.<br>🤝 Open for collaborations and internships.
 <!-- <br>📫 How to reach me: aditisbadkur@gmail.com -->
 
-
-# 📊 GitHub Stats:
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=aditibadkur&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditibadkur&theme=gotham&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibadkur&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
   
 </br>
+![](https://komarev.com/ghpvc/?username=aditibadkur&color=ff69b4&label=VISITORS) 
 </div>
 
 
