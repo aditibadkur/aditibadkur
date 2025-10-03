@@ -15,11 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibadkur&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-![](https://komarev.com/ghpvc/?aditibadkur&color=ff69b4) 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditibadkur&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://komarev.com/ghpvc/?aditibadkur) 
 
 ## 🔎 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
