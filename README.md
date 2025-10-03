@@ -13,8 +13,10 @@
 </div>
 </br>  
 </br>
-
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=aditibadkur&color=ff69b4&label=VISITORS) 
+</div>
 </div>
 
 
