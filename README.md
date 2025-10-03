@@ -12,6 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibadkur&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
   
 </br>
+
 ![](https://komarev.com/ghpvc/?username=aditibadkur&color=ff69b4&label=VISITORS) 
 </div>
 
